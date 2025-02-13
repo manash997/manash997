@@ -1,6 +1,6 @@
 ## Hi there 👋
-😄
-My name is Manash, and I'm a machine learning engineer with a strong focus on NLP and Text to Speech. Currently, I'm actively working on TTS and NLP for Indian languages. I hold a masters degree in computer engineering and have a deep passion for machine learning.
+
+My name is **Manash**, and I'm a machine learning engineer with a strong focus on **NLP** and **Text to Speech**. Currently, I'm actively working on TTS and NLP for Indian languages. I hold a masters degree in computer engineering and have a deep passion for machine learning.
 
 
 
